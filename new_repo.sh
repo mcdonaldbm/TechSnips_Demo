@@ -2,7 +2,7 @@
 git init
 
 # Set up remote repo
-git remote add origin 
+git remote add origin git@github.com:mcdonaldbm/TechSnips_Demo.git
 
 # Add files to first commit
 git add .
